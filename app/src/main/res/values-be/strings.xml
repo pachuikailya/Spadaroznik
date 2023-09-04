@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_map">Паказаць на мапе</string>
+    <string name="btn_hist">Гістарычная даведка</string>
+    <string name="object_type">Тып аб\'екта</string>
+    <string name="type_1">Помнікі архітэктуры</string>
+    <string name="type_2">Манументальная скульптура</string>
+    <string name="type_3">Тэатральна-відовішчныя, канцэрныя ўстановы і музеі</string>
+    <string name="type_4">Культавыя збудаванні</string>
+    <string name="type_5">Воінскія пахаванні</string>
+    <string name="type_6">Паркі і скверы</string>
+    <string name="clear">Ачысціць</string>
+</resources>

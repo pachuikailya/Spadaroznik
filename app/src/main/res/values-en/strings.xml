@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Спадарожнік</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_map">Show on map</string>
+    <string name="btn_hist">Historical background</string>
+    <string name="object_type">Object type</string>
+    <string name="type_1">Architectural monuments</string>
+    <string name="type_2">Monumental sculpture</string>
+    <string name="type_3">Theater and entertainment, concert institutions and museums</string>
+    <string name="type_4">Places of worship</string>
+    <string name="type_5">Military burials</string>
+    <string name="type_6">Parks and squares</string>
+    <string name="clear">Clear</string>
+</resources>

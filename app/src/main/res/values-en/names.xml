@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Names">
+        <item>Trinity suburb</item>
+        <item>Rakovskoe suburb</item>
+        <item>Sports arena of the Dynamo Stadium </item>
+        <item>Estate "Belaya Dacha" </item>
+        <item>Minsk City Hall </item>
+        <item>Main Post Office building </item>
+        <item>Holy Spirits Cathedral</item>
+        <item>The building of the House of Officers </item>
+        <item>The building of the Belarusfilm film </item>
+        <item>Terminal building</item>
+        <item>The building of the Republican Palace of Culture of Trade Unions</item>
+        <item>Former House of Freemasons</item>
+
+        <item>Monument to Yanka Kupala </item>
+        <item>Monument to Yakub Kolas</item>
+        <item>Monument to Maxim Bogdanovich</item>
+        <item>Tombstone monument to Yanka Kupala</item>
+        <item>Tombstone monument to Yakub Kolas</item>
+        <item>Victory Monument</item>
+
+        <item>The building of the National Academic Opera and Ballet Theater of the Republic of Belarus </item>
+        <item>The building of the Gorky National Drama Theater</item>
+        <item>The building of the Belarusian State Circus</item>
+        <item>The building of the Belarusian State Philharmonic</item>
+
+        <item>St. Alexander Nevsky Church</item>
+        <item>The Church of St.Trinity </item>
+
+
+        <item>The territory of the former death camp "Trostenets"</item>
+        <item>The territory of the former Masyukovschinsky death camp</item>
+        <item>Monument to the victims of the Nazi Genocide</item>
+        <item>The burial place of prisoners of war and civilians – prisoners of the concentration camp "Drozdy”</item>
+        <item>Mass grave of Soviet prisoners of war, partisans and civilians</item>
+        <item>Military Cemetery </item>
+        <item>The territory of the former fraternal cemeteries of the victims of the First World War</item>
+
+
+        <item>Yanka Kupala Park</item>
+        <item>Loshitsky manor and park complex: The caretaker\'s house</item>
+        <item>Loshitsky manor and park complex: distillery complex Manor house</item>
+        <item>Former city garden</item>
+
+
+    </string-array>
+</resources>

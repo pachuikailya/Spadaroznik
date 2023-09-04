@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="64dp"
+        android:orientation="vertical">
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnBel"
+            style="@style/LangButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:background="#0AA3E8"
+            android:text="Беларуская"
+            android:textColor="@android:color/white" />
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnRus"
+            style="@style/LangButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="#0AA3E8"
+            android:text="Русский"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnEng"
+            style="@style/LangButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="#0AA3E8"
+            android:text="English"
+            android:textColor="@android:color/white" />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

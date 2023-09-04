@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Спадарожнік</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_map">Показать на карте</string>
+    <string name="btn_hist">Историческая справка</string>
+    <string name="object_type">Тип объекта</string>
+    <string name="type_1">Памятники архитектуры</string>
+    <string name="type_2">Монументальная скульптура</string>
+    <string name="type_3">Театрально-зрелищные, концертные учреждения и музеи</string>
+    <string name="type_4">Культовые сооружения</string>
+    <string name="type_5">Воинские захоронения</string>
+    <string name="type_6">Парки и скверы</string>
+    <string name="clear">Очистить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

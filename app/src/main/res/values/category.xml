@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Category">
+
+        <item>Памятники архитектуры</item>
+        <item>Монументальная скульптура</item>
+        <item>Театрально-зрелищные, концертные учреждения и музеи </item>
+        <item>Культовые сооружения </item>
+        <item>Воинские захоронения </item>
+        <item>Парки и скверы</item>
+
+
+    </string-array>
+</resources>

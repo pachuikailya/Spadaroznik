@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Latitude">
+        <item> 53.908564 </item>
+        <item> 53.904968 </item>
+        <item> 53.895065  </item>
+        <item> 53.853147  </item>
+        <item> 53.903637 </item>
+        <item> 53.896463  </item>
+        <item> 53.904682  </item>
+        <item> 53.902020  </item>
+        <item> 53.926874   </item>
+        <item> 53.871245  </item>
+        <item> 53.898804  </item>
+        <item> 53.903239   </item>
+        <item> 53.904950   </item>
+        <item> 53.905203   </item>
+
+        <item> 53.905940   </item>
+        <item> 53.915656   </item>
+        <item> 53.913077   </item>
+        <item> 53.908501   </item>
+        <item> 53.908501   </item>
+        <item> 53.908782  </item>
+
+        <item> 53.910361  </item>
+        <item> 53.899008  </item>
+        <item> 53.904824  </item>
+        <item> 53.915137  </item>
+
+        <item> 53.909075  </item>
+        <item> 53.911607  </item>
+
+        <item> 53.836150  </item>
+        <item> 53.930942  </item>
+        <item> 53.902636  </item>
+        <item> 53.945067  </item>
+        <item> 53.964843  </item>
+        <item> 53.908610  </item>
+        <item> 53.923224  </item>
+
+
+        <item> 53.905587  </item>
+        <item> 53.852706  </item>
+        <item> 53.850953  </item>
+        <item> 53.906745  </item>
+
+
+    </string-array>
+
+    <string-array name="Longitude">
+        <item> 27.556091 </item>
+        <item> 27.547817 </item>
+        <item> 27.561384 </item>
+        <item>27.508534 </item>
+        <item> 27.556047  </item>
+        <item> 27.551307  </item>
+        <item> 27.556935  </item>
+        <item> 27.564786   </item>
+        <item> 27.630569  </item>
+        <item> 27.535412  </item>
+        <item> 27.549147  </item>
+        <item> 27.563176 </item>
+        <item> 27.556762  </item>
+        <item> 27.559325  </item>
+
+        <item> 27.566533  </item>
+        <item> 27.582630  </item>
+        <item> 27.561754  </item>
+        <item> 27.586436  </item>
+        <item> 27.586436  </item>
+        <item> 27.575078  </item>
+
+        <item> 27.561167  </item>
+        <item> 27.551078  </item>
+        <item> 27.567614  </item>
+        <item> 27.584139  </item>
+
+        <item> 27.587271  </item>
+        <item> 27.579865  </item>
+
+
+        <item> 27.703789  </item>
+        <item> 27.480610  </item>
+        <item> 27.536102  </item>
+        <item> 27.533818  </item>
+        <item> 27.663505  </item>
+        <item> 27.586236  </item>
+        <item> 27.549425  </item>
+
+
+        <item> 27.566374  </item>
+        <item> 27.577120  </item>
+        <item> 27.578648  </item>
+        <item> 27.572925  </item>
+
+    </string-array>
+</resources>
